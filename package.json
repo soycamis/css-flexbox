@@ -1,0 +1,11 @@
+{
+  "name": "css-flexbox",
+  "version": "1.0.0",
+  "description": "Excercices of css flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@soycamis",
+  "license": "ISC"
+}
